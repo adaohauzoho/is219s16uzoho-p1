@@ -381,7 +381,9 @@
         -->
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                    <p class="large text-muted">Although I was born in Newark, New Jersey my life really began in Elizabeth, NJ. At the age of two, my parents decided that it was best to follow tradition, thus my sister and I traveled to the country of Nigeria. There we lived and went to school for five years. I learned my language, Igbo, along with my tradition and culture. I came back to the United States at the age of eight, when I was then experienced three long years of ESL. As of now, I am the oldest of six children. This factor has made me a natural born leader. I have had to learn from life's experiences both good and bad, and most importantly the power of delegation. As a result of my experiences, combined with my background, my thinking style has been molded with a combination of optimism and realism. This means having more of a direct approach to any possible difficulty.  That mindset coupled with UX, I believe is a recipe for success.  ​I currently attend the New Jersey Institute of Technology in Newark, NJ. I am a senior in the major of Web & Information Systems. I would really love and enjoy building up a career in the field of User Experience. To me, it is a very interesting field and quite frankly not difficult to get a grip on. I must admit that it does require a bit of research, then the rest is fun. User Experience I define as "simple interaction". I believe this to be a universal position and as such will be able to fit into any business need. 
+
+If you like my work, or would like to get in touch with me, please fill out the form on the Contact Me page, or directly send me an email at adu2@njit.edu. </p>
                 </div>
             </div>
         </div>
