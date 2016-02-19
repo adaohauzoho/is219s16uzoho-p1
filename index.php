@@ -336,14 +336,14 @@
                         <h4>Adaoha Uzoho</h4>
                         <p class="text-muted">Junior UX/UI Designer</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
                             <li><a href="https://www.facebook.com/adaohauzoho"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a href="https://www.linkedin.com/in/adaohauzoho"><i class="fa fa-linkedin"></i></a>
                             </li>
                         </ul>
+                        <li>
                         <a href="#aboutme" class="page-scroll btn btn-xl">Download My Resume</a>
+ 						</li>                   
                     </div>
                 </div>
                 <!--
