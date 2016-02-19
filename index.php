@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Agency - Start Bootstrap Theme</title>
+    <title>Adaoha Uzoho's Website</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -343,6 +343,7 @@
                             <li><a href="https://www.linkedin.com/in/adaohauzoho"><i class="fa fa-linkedin"></i></a>
                             </li>
                         </ul>
+                        <a href="#aboutme" class="page-scroll btn btn-xl">Download My Resume</a>
                     </div>
                 </div>
                 <!--
@@ -393,8 +394,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Get in touch with me.</h3>
+                    <h2 class="section-heading">Contact Me</h2>
+                    <h3 class="section-subheading text-muted">Please fill out the for to get in touch with me.</h3>
                 </div>
             </div>
             <div class="row">
